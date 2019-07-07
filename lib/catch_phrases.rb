@@ -16,4 +16,5 @@ end
 
 def any_phrase
   
+  puts phrase
 end
